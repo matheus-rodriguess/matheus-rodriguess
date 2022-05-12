@@ -4,6 +4,6 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas.
 - 📫 How to reach me ...
   <div>
-    <src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuZn&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuZn&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
  </div>
 

@@ -1,6 +1,5 @@
 
 ## Olá! Eu sou o Matheus 
-- 👀 Tenho interesse em Front-End. 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas e fazendo alguns cursos voltados a Front-end.
 <div>
     <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTheuZn&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
